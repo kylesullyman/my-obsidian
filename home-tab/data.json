@@ -1,0 +1,68 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "images/ren.png",
+    "imageLink": ""
+  },
+  "logoScale": 6.1,
+  "iconColorType": "default",
+  "wordmark": "welcome back!",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 6,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "reddit post.md",
+      "timestamp": 1760603360054
+    },
+    {
+      "filepath": "🏫 classes/25-26/cpsc_298_dicd/🔌  CPSC298-05 - Overview.md",
+      "timestamp": 1760603355442
+    },
+    {
+      "filepath": "🌐 main.md",
+      "timestamp": 1760603351750
+    },
+    {
+      "filepath": "Quiz Ask.md",
+      "timestamp": 1760602798496
+    },
+    {
+      "filepath": "classes.base",
+      "timestamp": 1760602340290
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "🌤️ Today.md"
+    },
+    {
+      "filepath": "🌐 main.md"
+    },
+    {
+      "filepath": "maincanvas.canvas"
+    },
+    {
+      "filepath": "classes.base"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true,
+  "font": "\"JetBrainsMono Nerd Font\""
+}
